@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1.csproj": {}
+    "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1\\DZ1.csproj": {}
   },
   "projects": {
-    "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1.csproj": {
+    "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1\\DZ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1.csproj",
+        "projectUniqueName": "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1\\DZ1.csproj",
         "projectName": "DZ1",
-        "projectPath": "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1.csproj",
+        "projectPath": "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1\\DZ1.csproj",
         "packagesPath": "C:\\Users\\Кеха\\.nuget\\packages\\",
-        "outputPath": "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\obj\\",
+        "outputPath": "F:\\Учеба Программирование\\Знакомство с языками программирования\\seminar_2\\Task_2\\DZ1\\DZ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кеха\\AppData\\Roaming\\NuGet\\NuGet.Config",

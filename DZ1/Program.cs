@@ -7,9 +7,17 @@ Console.Write("Введите трёхзначное число: ");
 int num = int.Parse(Console.ReadLine());
 int numTwo;
 
-while (num > 100)
+void Number() 
     {
-        num = num / 10;
-        numTwo = num % 10;
-        Console.WriteLine(numTwo);
+        do 
+            {
+                num = num / 10;    
+                    if(num < 100)
+                        {       
+                            numTwo = num % 10;
+                            Console.WriteLine(numTwo);
+                        }
+            }
+        while (num > 100);
     }
+Number();
