@@ -12,11 +12,12 @@ void Number()
         do 
             {
                 num = num / 10;    
-                    if(num < 100)
+                    if(num < 100 & num !=0) /// не могу придумать, как сделать так, что бы функция возвращалась если введено 2 числа
                         {       
                             numTwo = num % 10;
                             Console.WriteLine(numTwo);
                         }
+                    else break;
             }
         while (num > 100);
     }
