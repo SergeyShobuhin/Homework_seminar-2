@@ -12,7 +12,7 @@ void Number()
         do 
             {
                 num = num / 10;    
-                    if(num < 100 & num !=0) /// не могу придумать, как сделать так, что бы функция возвращалась если введено 2 числа
+                    if(num < 100 & num > 10) 
                         {       
                             numTwo = num % 10;
                             Console.WriteLine(numTwo);
