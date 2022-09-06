@@ -6,7 +6,6 @@
 // Задаём число
 Console.Write("Введите трёхзначное число: ");
 int num = int.Parse(Console.ReadLine());
-int numTwo;
 
 // Задаём функцию
 void Number() 
@@ -16,8 +15,8 @@ void Number()
                 num = num / 10;    
                     if(num < 100 & num > 10) 
                         {       
-                            numTwo = num % 10;
-                            Console.WriteLine(numTwo);
+                            num = num % 10;
+                            Console.WriteLine(num);
                         }
                     else break;
             }

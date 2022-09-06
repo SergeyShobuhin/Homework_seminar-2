@@ -6,7 +6,6 @@
 // Задаём число
 Console.Write ("Введите число ");
 int num = int.Parse(Console.ReadLine());
-int numTwo;
 
 // Задаём функцию
 void Number() 
