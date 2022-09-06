@@ -3,10 +3,12 @@
 // 782 -> 8
 // 918 -> 1
 
+// Задаём число
 Console.Write("Введите трёхзначное число: ");
 int num = int.Parse(Console.ReadLine());
 int numTwo;
 
+// Задаём функцию
 void Number() 
     {
         do 
