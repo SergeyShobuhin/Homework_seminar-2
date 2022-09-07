@@ -1,0 +1,15 @@
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\bin\Debug\net6.0\DZ3.exe
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\bin\Debug\net6.0\DZ3.deps.json
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\bin\Debug\net6.0\DZ3.dll
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\bin\Debug\net6.0\DZ3.pdb
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.dll
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.pdb
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+F:\Учеба Программирование\Знакомство с языками программирования\seminar_2\Task_2\DZ1\DZ3\obj\Debug\net6.0\ref\DZ3.dll
